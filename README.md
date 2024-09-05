@@ -79,7 +79,7 @@ vớ5://user:pass@127.0.0.1:6969
 2. Sao chép kho lưu trữ này
 
    ```vỏ
-    git clone https://github.com/debugs0/tomarketod.git
+    git clone https://github.com/bibo318/tomarketod.git
    ```
 3. thư mục goto tomarketod
 
@@ -123,7 +123,7 @@ sudo apt install git
 2. Sao chép kho lưu trữ này
 
    ```vỏ
-   git clone  https://github.com/debugs0/tomarketod.git
+   git clone  https://github.com/bibo318/tomarketod.git
    ```
 3. thư mục goto tomarketod
 
@@ -163,7 +163,7 @@ sudo apt install git
 
    ```
 
-git clone  https://github.com/debugs0/tomarketod.git
+git clone  https://github.com/bibo318/tomarketod.git
 
 ```
 
